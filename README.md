@@ -45,7 +45,7 @@ or check out my [Plunker](http://plnkr.co/edit/s6BVMpqTPdeHo7zE4nWU?p=preview) f
 How to Contribute
 -----------------
 ```
-$ git clone https://github.com/yaru22/angular-hovercard.git
+$ git clone https://github.com/asim-qburstian/angular-hovercard.git
 $ cd angular-hovercard
 $ npm install; bower install
 $ # modify the source code in src/
